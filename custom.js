@@ -1,5 +1,5 @@
 $(document).ready(function(){	
-	$('#mainblock').fadeIn(2000);
+	$('#mainBlock').fadeIn(3000);
 });
 
 //~~~~~Slideshow~~~~~~~~
