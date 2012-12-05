@@ -64,6 +64,7 @@ p {
 	padding: 12;
 	border-radius: 15;
 	color: white;
+	display: none;
 	}
 	
 #mainBlock img {
